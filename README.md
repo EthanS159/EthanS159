@@ -1,2 +1,11 @@
+<style>
+
+p{
+  color:red;
+}
+  
+</style>
+
 <h1>About Me</h1>
-<p style="color:red;">jannaa</p>
+<p>jannaa</p>
+
