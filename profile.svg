@@ -3,9 +3,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
-          font-family: system-ui, -apple-system, sans-serif;
-          background: linear-gradient(135deg, #0f172a, #1e1b4b);
-          color: #ffffff;
+          font-family: sans-serif;
+          color: red;
           padding: 40px;
           border-radius: 12px;
           text-align: center;
@@ -19,15 +18,10 @@
           font-size: 2.5rem;
           margin-bottom: 10px;
           color: #38bdf8;
-          animation: pulse 2s infinite alternate;
         }
         p {
           font-size: 1.2rem;
           color: #94a3b8;
-        }
-        @keyframes pulse {
-          from { transform: scale(1); }
-          to { transform: scale(1.05); }
         }
       </style>
 
